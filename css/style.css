@@ -116,7 +116,7 @@ span {
     width: 230px;
     padding: 15px 30px;
     font-size: 25px;
-    transition: all 2s linear;
+    transition: all 1s;
     margin: 20px auto;
 }
 .section-6 .btn:hover {
