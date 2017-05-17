@@ -1,0 +1,193 @@
+/*MAIN CONFIGURE*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    color: #17b8e7;
+    text-transform: none;
+}
+a:hover {
+    text-decoration: none;
+}
+span {
+    color: #17b8e7;
+}
+/*HEADER SECTION CONFIGURE*/
+
+.navigation {
+    background-color: #fff;
+    margin-bottom: 0px;
+    border: 0;
+}
+.navbar-default .navbar-nav {
+    margin-top: 15px;
+}
+.navbar-default .navbar-nav li a:hover {
+    color: #17b8e7;
+}
+/*BANNER SECTION CONFIGURE*/
+
+.banner {
+    position: relative;
+    height: 470px;
+    margin-bottom: 0;
+}
+.banner-content {
+    width: 750px;
+}
+.banner-content h1 {
+    margin-bottom: 30px;
+}
+.banner-content p {
+    margin-bottom: 50px;
+}
+.banner-person {
+    position: absolute;
+    top: 20px;
+    left: 840px;
+}
+/*LOGOS SECTION CONFIGURE*/
+
+.logos p {
+    padding-top: 35px;
+    font: bold 20px Arial;
+    text-transform: uppercase;
+}
+.logos-advert {
+    padding: 20px 0px 20px 25px;
+}
+.logos-advert>a {
+    display: inline-block;
+    margin-left: 25px;
+}
+/*SUBSCRIBE SECTION CONFIGURE*/
+
+.section-4,
+.section-5 {
+    background-color: #17b8e7;
+    padding: 0px 0 45px 0;
+}
+.subscribe h2 {
+    color: #fff;
+    margin-bottom: 25px;
+}
+.subscribe>a {
+    display: inline-block;
+    padding-right: 20px;
+}
+.advantage {
+    padding: 0px 20px 0px 50px;
+    color: #fff;
+}
+.advantage>ul>li {
+    padding-bottom: 10px;
+}
+/*FEATURED GUESTS SECTION CONFIGURE*/
+
+.section-5 {
+    background-color: #fff;
+}
+.title {
+    margin-bottom: 30px;
+}
+.description>article {
+    padding: 30px 20px 40px;
+}
+.desc-photo {
+    float: left;
+    margin-right: 20px;
+}
+.description p {
+    overflow: hidden;
+}
+/*EPISODES SECTION CONFIGURE*/
+
+.section-6 {
+    background-color: #232426;
+    padding-bottom: 45px;
+    color: #fff;
+}
+.section-6 .btn {
+    display: block;
+    border: 2px solid #17b8e7;
+    width: 230px;
+    padding: 15px 30px;
+    font-size: 25px;
+    transition: all 2s linear;
+    margin: 20px auto;
+}
+.section-6 .btn:hover {
+    border: 2px solid #17b8e7;
+    padding: 15px 30px;
+    color: #fff;
+    background-color: #17b8e7;
+}
+/*POPULAR EPISODES SECTION CONFIGURE*/
+
+.section-7 {
+    padding: 20px 0 40px 0;
+}
+.section-7 img {
+    float: left;
+    margin-right: 20px;
+}
+.section-7 article {
+    padding-bottom: 20px;
+}
+/*MUSIC SECTION CONFIGURE*/
+
+.section-8 {
+    background-color: #cfd0d0;
+    padding-bottom: 45px;
+}
+.section-8 .number {
+    background-color: black;
+    width: 140px;
+    height: 140px;
+    float: left;
+    margin-right: 15px;
+}
+.selection {
+    padding-bottom: 20px;
+}
+.number span {
+    font-size: 100px;
+    padding-left: 40px;
+}
+.img-respons {
+    width: 97px;
+    height: 50px;
+    border-radius: 10px;
+}
+/*EPILOGUE SECTION CONFIGURE*/
+
+.section-9 {
+    background-color: #000;
+    padding-bottom: 45px;
+    color: #fff;
+    line-height: 25px;
+}
+.section-title {
+    margin: 45px 0;
+}
+.section-9 .btn {
+    display: block;
+    width: 300px;
+    border: 2px solid #fff;
+    padding: 10px 20px;
+    color: #fff;
+    transition: 2s;
+}
+.section-9 .btn:hover {
+    background-color: #fff;
+    color: #000;
+}
+/*FOOTER SECTION CONFIGURE*/
+
+footer {
+    background-color: #151515;
+    color: #fff;
+}
